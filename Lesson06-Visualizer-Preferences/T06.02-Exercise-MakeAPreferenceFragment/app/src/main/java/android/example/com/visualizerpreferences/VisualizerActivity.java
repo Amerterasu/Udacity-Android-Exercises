@@ -142,4 +142,11 @@ public class VisualizerActivity extends AppCompatActivity {
 
         }
     }
+
+    /**
+     * Created by senor on 2/8/2018.
+     */
+
+    public static class SettingsFragment {
+    }
 }
